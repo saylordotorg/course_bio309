@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BIO309: Zoology"
+course_description: "An introductory course that covers the evolutionary history, phylogenetic relationships, comparative anatomy and physiology, and ecological interrelationships among animal taxa, with an overarching focus on the evolutionary pressures that led to physiological and ecological differences among species and groups."
+next: ../Unit01
+previous: ../../../
+---
 Course Syllabus for "BIO309: Zoology"
 -------------------------------------
 

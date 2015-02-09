@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BIO309: Zoology"
+course_description: "An introductory course that covers the evolutionary history, phylogenetic relationships, comparative anatomy and physiology, and ecological interrelationships among animal taxa, with an overarching focus on the evolutionary pressures that led to physiological and ecological differences among species and groups."
+next: ../Unit02
+previous: ../Intro
+---
 **Unit 1: Introduction to Zoology** <span id="1"></span> 
 *What is zoology? How does it fit into the large field of biology? In
 this unit, we will work to answer these questions. The unit will also

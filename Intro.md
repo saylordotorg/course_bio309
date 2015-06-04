@@ -127,3 +127,11 @@ introductory readings for subunit 1.1 (about 2 hours) on Tuesday; the
 remainder of the introductory readings for subunit 1.1 (about 2 hours)
 on Wednesday night; the materials for subunit 1.1.3 (about a total of 2
 hours) on Thursday night; etc.
+
+**Table of Contents:** You can find the course's units at the links below.
+
+- [Unit 1](https://legacy.saylor.org/bio309/Unit01/)
+- [Unit 2](https://legacy.saylor.org/bio309/Unit02/)
+- [Unit 3](https://legacy.saylor.org/bio309/Unit03/)
+- [Unit 4](https://legacy.saylor.org/bio309/Unit04/)
+- [Unit 5](https://legacy.saylor.org/bio309/Unit05/)

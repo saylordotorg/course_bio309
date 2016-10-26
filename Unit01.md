@@ -28,7 +28,7 @@ Upon successful completion of this unit, students will be able to:
 **1.1 What Is Zoology?** <span id="1.1"></span> 
 -   **Reading: Biology Nation’s “Introduction to Zoology”**
     Link: Biology-Nation’s [“Introduction to
-    Zoology](http://www.biology-nation.com/Introduction_to_Zoology.html)[”](http://www.biology-nation.com/Introduction_to_Zoology.html)
+    Zoology](http://www.biology-nation.com/Introduction_to_Zoology.html)[”](http://web.archive.org/web/20140922044628/http://www.biology-nation.com/Introduction_to_Zoology.html)
     (HTML)  
         
      Instructions: Read Introduction to Zoology (HTML) linked above.

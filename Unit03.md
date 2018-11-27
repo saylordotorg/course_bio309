@@ -498,7 +498,7 @@ Upon successful completion of this unit, the student will be able to:
 -   **Reading: The Saylor Foundation’s “Comparison of Digestive
     Systems”**
     Link: The Saylor Foundation’s [“Comparison of Digestive
-    Systems](http://www.saylor.org/site/wp-content/uploads/2012/07/BIO309-OC-3.8.1-Comparison-of-Digestive-Systems-FINAL.pdf)[”](http://www.saylor.org/site/wp-content/uploads/2012/07/BIO309-OC-3.8.1-Comparison-of-Digestive-Systems-FINAL.pdf)  
+    Systems](https://resources.saylor.org/archived/wp-content/uploads/2012/07/BIO309-OC-3.8.1-Comparison-of-Digestive-Systems-FINAL.pdf)[”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/BIO309-OC-3.8.1-Comparison-of-Digestive-Systems-FINAL.pdf)  
         
      Instructions: Click on the link above, and read the entire text to
     learn about the digestive systems of herbivores, carnivores, and
@@ -726,13 +726,13 @@ fertilization in all amniotes is internal.**
 **Unit 3 Assessment** <span id="3.12"></span> 
 -   **Assessment: Assessment: The Saylor Foundation’s “Unit 3 Quiz”**
     Link: The Saylor Foundation’s [“Unit 3
-    Quiz](http://www.saylor.org/site/wp-content/uploads/2011/11/BIO309-Unit-3-Assessment-FINAL.pdf)[”](http://www.saylor.org/site/wp-content/uploads/2011/11/BIO309-Unit-3-Assessment-FINAL.pdf)
+    Quiz](https://resources.saylor.org/archived/wp-content/uploads/2011/11/BIO309-Unit-3-Assessment-FINAL.pdf)[”](https://resources.saylor.org/archived/wp-content/uploads/2011/11/BIO309-Unit-3-Assessment-FINAL.pdf)
     (PDF)  
       
      Instructions: Download the quiz linked above, and answer each
     question before checking your answers against The Saylor
     Foundation’s [“Unit 3 Quiz Answer
-    Key](http://www.saylor.org/site/wp-content/uploads/2011/11/BIO309-Unit-3-Answer-Key-FINAL.pdf)[”](http://www.saylor.org/site/wp-content/uploads/2011/11/BIO309-Unit-3-Answer-Key-FINAL.pdf)
+    Key](https://resources.saylor.org/archived/wp-content/uploads/2011/11/BIO309-Unit-3-Answer-Key-FINAL.pdf)[”](https://resources.saylor.org/archived/wp-content/uploads/2011/11/BIO309-Unit-3-Answer-Key-FINAL.pdf)
     (PDF).
 
 

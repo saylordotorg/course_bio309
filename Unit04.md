@@ -319,11 +319,11 @@ Upon successful completion of this unit, students will be able to:
 **Unit 4 Assessment** <span id="4.5"></span> 
 -   **Assessment: Assessment: The Saylor Foundation’s “Unit 4 Quiz”**
     Link: The Saylor Foundation’s [“Unit 4
-    Quiz](https://resources.saylor.org/archived/wp-content/uploads/2012/01/BIO309-Unit-4-Assessment-FINAL.pdf)[”](https://resources.saylor.org/archived/wp-content/uploads/2012/01/BIO309-Unit-4-Assessment-FINAL.pdf) (PDF)  
+    Quiz](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/01/BIO309-Unit-4-Assessment-FINAL.pdf)[”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/01/BIO309-Unit-4-Assessment-FINAL.pdf) (PDF)  
       
      Instructions: Download the quiz linked above, and answer each
     question before checking your answers against the Saylor
     Foundation’s [“Unit 4 Quiz Answer
-    Key](https://resources.saylor.org/archived/wp-content/uploads/2012/01/BIO309-Unit-4-Answer-Key-FINAL.pdf)[”](https://resources.saylor.org/archived/wp-content/uploads/2012/01/BIO309-Unit-4-Answer-Key-FINAL.pdf) (PDF)
+    Key](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/01/BIO309-Unit-4-Answer-Key-FINAL.pdf)[”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/01/BIO309-Unit-4-Answer-Key-FINAL.pdf) (PDF)
 
 

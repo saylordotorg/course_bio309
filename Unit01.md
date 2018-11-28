@@ -177,13 +177,13 @@ id="1.2.1"></span> 
 **Unit 1 Assessment** <span id="1.3"></span> 
 -   **Assessment: The Saylor Foundation’s “Unit 1 Quiz”**
     Link: The Saylor Foundation’s [“Unit 1
-    Quiz](https://resources.saylor.org/archived/wp-content/uploads/2011/11/BIO309-Unit-1-Assessment-FINAL.pdf)[”](https://resources.saylor.org/archived/wp-content/uploads/2011/11/BIO309-Unit-1-Assessment-FINAL.pdf)
+    Quiz](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/11/BIO309-Unit-1-Assessment-FINAL.pdf)[”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/11/BIO309-Unit-1-Assessment-FINAL.pdf)
     (PDF)  
       
      Instructions: Download the quiz linked above, and answer each
     question before checking your answers against The Saylor
     Foundation’s [“Unit 1 Quiz Answer
-    Key](https://resources.saylor.org/archived/wp-content/uploads/2011/11/BIO309-Unit-1-Answer-Key-FINAL.pdf)[.”](https://resources.saylor.org/archived/wp-content/uploads/2011/11/BIO309-Unit-1-Answer-Key-FINAL.pdf)
+    Key](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/11/BIO309-Unit-1-Answer-Key-FINAL.pdf)[.”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/11/BIO309-Unit-1-Answer-Key-FINAL.pdf)
     (PDF)
 
 

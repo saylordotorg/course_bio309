@@ -683,13 +683,13 @@ id="2.1.2"></span> 
 
 -   **Assessment: The Saylor Foundation’s “Unit 2 Quiz”**
     Link: The Saylor Foundation’s [“Unit 2
-    Quiz](https://resources.saylor.org/archived/wp-content/uploads/2011/11/BIO309-Unit-2-Assessment-FINAL.pdf)[”](https://resources.saylor.org/archived/wp-content/uploads/2011/11/BIO309-Unit-2-Assessment-FINAL.pdf)
+    Quiz](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/11/BIO309-Unit-2-Assessment-FINAL.pdf)[”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/11/BIO309-Unit-2-Assessment-FINAL.pdf)
     (PDF)  
       
      Instructions: Download the quiz linked above, and answer each
     question before checking your answers against The Saylor
     Foundation’s [“Unit 2 Quiz Answer
-    Key](https://resources.saylor.org/archived/wp-content/uploads/2011/11/BIO309-Unit-2-Answer-Key-FINAL.pdf)[”](https://resources.saylor.org/archived/wp-content/uploads/2011/11/BIO309-Unit-2-Answer-Key-FINAL.pdf)
+    Key](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/11/BIO309-Unit-2-Answer-Key-FINAL.pdf)[”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/11/BIO309-Unit-2-Answer-Key-FINAL.pdf)
     (PDF).
 
 
